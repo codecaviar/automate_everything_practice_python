@@ -16,13 +16,13 @@ Python is one of the most popular programming languages on the planet. It's embr
 
 **Automate Everything Series:**
 
-Beginner's Guide to Basic Python
+Beginner's Guide to Basic Python <br/>
 https://www.bingyune.com/blog/automate-everything-basic-python
 
-Complete Guide to Intermediate Python
+Complete Guide to Intermediate Python <br/>
 https://www.bingyune.com/blog/automate-everything-intermediate-python
 
-Ultimate Guide to Advance Python
+Ultimate Guide to Advance Python <br/>
 https://www.bingyune.com/blog/automate-everything-advance-python
 
 ## Getting Started
