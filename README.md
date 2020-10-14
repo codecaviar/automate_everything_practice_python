@@ -10,7 +10,13 @@
 
 Python is one of the most popular programming languages on the planet. It's embraced by developers, data scientists, software engineers, and even hackers because of its versatility, flexibility, and object-oriented features.
 
-**The goal of this project is** to provide practice problems in support of the *Automate Everything Series* from @codecaviar.  
+**The goal of this project is** to provide practice problems in conjunction with the *Automate Everything* series from @codecaviar.  
+
+* Fill each function stub according to the docstring.
+* When there **is not** a separate test file for the question and answer combination, run the tests with the doctest command:
+`python3 -m doctest [filename]_q.py -v`
+* When there **is** a separate test file for the question and answer combination, run the tests using the unit test command:
+`python3 [filename]_test.py`
 
 ## Summary:
 
@@ -27,7 +33,7 @@ https://www.bingyune.com/blog/automate-everything-advance-python
 
 ## Getting Started
 
-First, cloning the git repository and installing the provided packages will help you get a copy of the project up and running on your local machine. The analysis for this project was performed using Jupyter Notebook (.ipynb) and the packages were managed using the Anaconda platform.
+First, cloning the git repository and installing the provided packages will help you get a copy of the project up and running on your local machine.
 
 ```
 git clone https://github.com/codecaviar/automate_everything_practice_python.git
@@ -36,6 +42,9 @@ conda env create -f environment.yml
 
 File Description:
 * environment.yml - packages used to perform this analysis
+* [filename]_que.py - practice problem question
+* [filename]_ans.py - practice problem answer
+* [filename]_test.py - practice problem test file
 
 ## Authors
 
@@ -52,6 +61,9 @@ The project referenced the following resources:
 * https://www.python.org/
 * https://chrisalbon.com/
 * https://automatetheboringstuff.com/
+
+### Find an error or bug?
+Everything on this site is available on GitHub. [Submit a suggested change](https://github.com/codecaviar/automate_everything_practice_python.git). Please include the file's URL in the issue.
 
 ----------
 The Code Caviar is a digital magazine about data science and analytics that dives deep into key topics, so you can experience the thrill of solving at scale.
