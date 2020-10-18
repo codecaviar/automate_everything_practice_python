@@ -2,7 +2,7 @@
 # Level: Basic
 # Updated: 2020-10-13
 
-# Fill each function stub according to the docstring.
+# Fill each function stub according to the docstring
 # Run tests with this command: "python3 -m doctest [filename].py -v"
 
 # As you progress and problems get harder, there will be many ways of

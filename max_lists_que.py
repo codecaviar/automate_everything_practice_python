@@ -2,8 +2,8 @@
 # Level: Basic
 # Updated: 2020-10-13
 
-# Fill each function stub according to the docstring.
-# Run the tests with command: "python3 -m doctest [filename].py -v"
+# Fill each function stub according to the docstring
+# Run tests with this command: "python3 -m doctest [filename].py -v"
 
 def max_lists(list1, list2):
     """
