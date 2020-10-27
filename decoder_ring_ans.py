@@ -37,8 +37,10 @@ def decoder_ring(cipher_text):
 
     # Optional: use try...except block to handle error conditions
 
+    # Use the replace method to find keyword
+    # Use the split method to separate words at the space character
     decrypt_text = cipher_text.replace("XYZ", " ").split()
 
-    replace_space = " ".join(decrypt_text)
+    replace_space = " ".join(decrypt_text) # Rejoin the list of words
 
     return replace_space
