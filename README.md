@@ -29,7 +29,7 @@ Complete Guide to Intermediate Python <br/>
 https://www.bingyune.com/blog/automate-everything-intermediate-python
 
 Ultimate Guide to Advance Python <br/>
-https://www.bingyune.com/blog/automate-everything-advance-python
+https://www.bingyune.com/blog/automate-everything-advanced-python
 
 ## Getting Started
 
